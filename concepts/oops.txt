@@ -1,0 +1,20 @@
+4 Pillars of Java
+    a -> abstraction
+
+    e -> encapsulation
+        getter method
+        setter method
+
+    i -> inheritance
+
+
+    p -> polymorphism
+        method overloading - in same class
+        method overriding - in child class
+
+ACCESS MODIFIERS
+    public
+    private
+    protected
+    default
+
